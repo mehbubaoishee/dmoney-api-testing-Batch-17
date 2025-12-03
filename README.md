@@ -40,6 +40,6 @@ https://documenter.getpostman.com/view/44302140/2sB3dMwAhm
 <img width="756" height="342" alt="image" src="https://github.com/user-attachments/assets/f27659b7-bbd2-4808-97a2-019592eeb9cb" />
 <img width="742" height="856" alt="image" src="https://github.com/user-attachments/assets/ae040502-ea6e-4e15-b5ec-84a6aeeca1a5" />
 
-### Newman Report Screenshots (Google Sheet):
+### Bug/Improvement Report (Google Sheet):
 
 
