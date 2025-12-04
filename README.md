@@ -36,9 +36,7 @@ file:///F:/DMoney-Newman/Reports/report.html
 https://documenter.getpostman.com/view/44302140/2sB3dMwAhm
 
 ### Newman Report Screenshots:  
-<img width="742" height="826" alt="image" src="https://github.com/user-attachments/assets/6b6946c7-62fb-4c37-b022-ecc47a8cea61" />
-<img width="756" height="342" alt="image" src="https://github.com/user-attachments/assets/f27659b7-bbd2-4808-97a2-019592eeb9cb" />
-<img width="742" height="856" alt="image" src="https://github.com/user-attachments/assets/ae040502-ea6e-4e15-b5ec-84a6aeeca1a5" />
+<img width="711" height="817" alt="image" src="https://github.com/user-attachments/assets/ee7abc8e-a4f3-4218-9b16-72fc64ca0267" />
 
 ### Bug/Improvement Report (Google Sheet):
 
